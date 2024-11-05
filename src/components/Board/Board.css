@@ -1,0 +1,17 @@
+.board {
+    display: flex;
+    overflow-x: auto;
+    padding: 20px;
+  }
+  
+  .column {
+    min-width: 300px;
+    margin-right: 20px;
+    background-color: #f4f5f7;
+    border-radius: 4px;
+    padding: 10px;
+  }
+  
+  .column h3 {
+    margin-bottom: 10px;
+  }
